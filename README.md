@@ -1,93 +1,121 @@
-<h1 align="center">Hitesh Kumar</h1>
+<h1 align="center">Hi, I'm Hitesh Kumar</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | B.Tech CSE (2027) | India
+Full Stack Developer | B.Tech CSE | MERN Stack | India
 </h3>
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner"/>
 </p>
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+<img src="https://raw.githubusercontent.com/Hiteshh04/Hiteshh04/main/coding.gif" width="650"/>
+</p>
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i><br>
+— John Johnson
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Hiteshh04&label=Profile%20views&color=6f42c1&style=flat"/>
 </p>
 
 ---
 
 ## About Me
 
-- B.Tech Computer Science student (2027)  
-- Strong interest in Software Development and Problem Solving  
-- Skilled in C++, Python, and Web Development  
-- Currently learning Data Structures, Algorithms, and Machine Learning  
-- Actively building real-world projects  
-- Open to Internship Opportunities  
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,mysql,git,github,vscode&perline=6" />
-</p>
-
----
-
-## Featured Projects
-
-### Virtual Fitting Room
-- Built an interactive system to try clothes digitally using image overlay  
-- Implemented real-time adjustments for better user experience  
-- Tech: React, TypeScript, Tailwind CSS  
-
----
-
-### Farm Animal Identification System
-- Developed an image-based system to identify farm animals  
-- Implemented prediction display with confidence levels  
-- Tech: Python, Machine Learning  
-
----
-
-### Movie Recommendation System
-- Built a content-based recommendation system using similarity techniques  
-- Implemented TF-IDF and cosine similarity  
-- Developed an interactive interface using Streamlit  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiteshh04&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiteshh04&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiteshh04&theme=tokyo-night&hide_border=true"/>
-</p>
+- B.Tech Computer Science Student  
+- Learning and building with the MERN Stack  
+- Practicing Data Structures and Algorithms  
+- Interested in building real-world software projects  
 
 ---
 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hitesh18/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://github.com/Hiteshh04">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/hiteshhh-kumar/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hiteshparida614@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-From [Hitesh Kumar](https://github.com/Hiteshh04)
+## Tech Stack
 
-![Snake animation](https://github.com/Hiteshh04/Hiteshh04/blob/output/github-contribution-grid-snake.svg)
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hiteshh04&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshh04&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Hiteshh04/Hiteshh04/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## Developer Quote
+
+<p align="center">
+
+"Any fool can write code that a computer can understand.  
+Great programmers write code that humans can understand."
+
+— Martin Fowler
+
+</p>
+
+---
+
+⭐ From [Hitesh Kumar](https://github.com/Hiteshh04)
