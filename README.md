@@ -9,7 +9,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Hiteshh04/Hiteshh04/main/coding.gif" width="650"/>
+<img src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif" width="650"/>
 </p>
 
 <p align="center">
@@ -89,9 +89,9 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hiteshh04&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hiteshh04&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshh04&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshh04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
