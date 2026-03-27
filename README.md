@@ -9,7 +9,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 ## Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Hiteshh04/Hiteshh04/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Hiteshh04/Hiteshh04/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
