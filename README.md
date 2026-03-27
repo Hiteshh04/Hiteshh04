@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Hitesh+Kumar;Aspiring+Software+Engineer;C%2B%2B+%7C+Python+%7C+ML;Building+Real+World+Projects;Open+to+Internships&center=true&width=650&height=50">
-</p>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-  Hi, I'm Hitesh Kumar
-</h1>
+<h1 align="center">Hitesh Kumar</h1>
 
 <h3 align="center">
-B.Tech CSE (2027) | Aspiring Software Engineer | India
+Aspiring Software Engineer | B.Tech CSE (2027) | India
 </h3>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif">
@@ -21,20 +16,14 @@ B.Tech CSE (2027) | Aspiring Software Engineer | India
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hiteshh04&label=Profile%20views&color=blueviolet&style=flat" />
-</p>
-
----
-
 ## About Me
 
-B.Tech CSE Student (2027)  
-Passionate about Software Development & Problem Solving  
-Skilled in C++, Python & Web Development  
-Currently learning Data Structures, Algorithms & Machine Learning  
-Open to Internship Opportunities  
-Goal: Crack top product-based companies  
+- B.Tech Computer Science student (2027)  
+- Strong interest in Software Development and Problem Solving  
+- Skilled in C++, Python, and Web Development  
+- Currently learning Data Structures, Algorithms, and Machine Learning  
+- Actively building real-world projects  
+- Open to Internship Opportunities  
 
 ---
 
@@ -48,14 +37,24 @@ Goal: Crack top product-based companies
 
 ## Featured Projects
 
-**Virtual Fitting Room**  
-→ Try clothes digitally using image overlay and real-time adjustments  
+### Virtual Fitting Room
+- Built an interactive system to try clothes digitally using image overlay  
+- Implemented real-time adjustments for better user experience  
+- Tech: React, TypeScript, Tailwind CSS  
 
-**Farm Animal Identification System**  
-→ Detect farm animals using image processing techniques  
+---
 
-**Movie Recommendation System**  
-→ ML-based system using similarity techniques  
+### Farm Animal Identification System
+- Developed an image-based system to identify farm animals  
+- Implemented prediction display with confidence levels  
+- Tech: Python, Machine Learning  
+
+---
+
+### Movie Recommendation System
+- Built a content-based recommendation system using similarity techniques  
+- Implemented TF-IDF and cosine similarity  
+- Developed an interactive interface using Streamlit  
 
 ---
 
@@ -64,14 +63,6 @@ Goal: Crack top product-based companies
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiteshh04&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiteshh04&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hiteshh04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -86,8 +77,14 @@ Goal: Crack top product-based companies
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/hitesh18/  
-- GitHub: https://github.com/Hiteshh04  
+<p align="center">
+  <a href="https://www.linkedin.com/in/hitesh18/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://github.com/Hiteshh04">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
 
 ---
 
