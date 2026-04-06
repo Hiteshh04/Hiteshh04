@@ -21,7 +21,6 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Hiteshh04&label=Profile%20views&color=6f42c1&style=flat"/>
 </p>
-
 ---
 
 ## About Me
