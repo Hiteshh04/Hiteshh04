@@ -78,6 +78,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </p>
 
 ### Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
