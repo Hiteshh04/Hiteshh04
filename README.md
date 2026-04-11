@@ -46,7 +46,6 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </a>
 
 </p>
-
 ---
 
 ## Tech Stack
