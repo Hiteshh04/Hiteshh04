@@ -45,12 +45,14 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </a>
 
 </p>
+
 ---
 
 
 ## Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=cpp"/>
 <img src="https://skillicons.dev/icons?i=javascript"/>
