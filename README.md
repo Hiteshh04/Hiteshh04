@@ -60,6 +60,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
