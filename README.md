@@ -88,7 +88,6 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 </p>
-
 ---
 
 ## GitHub Stats
