@@ -68,7 +68,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 </p>
-
+.
 ### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
