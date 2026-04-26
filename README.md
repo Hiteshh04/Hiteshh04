@@ -23,7 +23,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 </p>
 
 ---
-
+.
 ## About Me
 
 - B.Tech Computer Science Student  
