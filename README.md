@@ -8,6 +8,7 @@ Full Stack Developer | B.Tech CSE | MERN Stack | India
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Open+Source+Learner"/>
 </p>
 
+
 <!-- ✅ Govind style GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/MPOp0rmUUEKfcvFckS/giphy.gif">
